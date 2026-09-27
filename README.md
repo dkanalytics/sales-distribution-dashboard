@@ -18,7 +18,7 @@ The brief: turn a year of raw transaction data into a one-page dashboard that sh
 **1. Cleaned and structured the raw data**
 Converted the raw transaction log into a proper Excel Table (one row per sale), with consistent date, product, customer, and region fields.
 
-<img width="727" height="296" alt="Process-png" src="https://github.com/user-attachments/assets/f532d7e0-51c4-4d33-8f53-b2137c4f4a23" />
+<img width="100%" alt="Process-png" src="https://github.com/user-attachments/assets/f532d7e0-51c4-4d33-8f53-b2137c4f4a23" />
 
 **2. Replaced anonymized IDs with realistic names**
 
