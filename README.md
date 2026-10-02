@@ -50,7 +50,7 @@ A dedicated sheet compares each month's actual sales to its target, calculating 
 - Sales by Week (trend view)
 - Slicers for Month and Region for interactive filtering
 
-<img width="100%" alt="initial-dashboard" src="https://github.com/user-attachments/assets/9b8b0dad-fe64-4cf3-8eaa-3bc9425370aa" />
+<img height="100%" alt="initial-dashboard" src="https://github.com/user-attachments/assets/9b8b0dad-fe64-4cf3-8eaa-3bc9425370aa" />
 
 
 **6. Turned the numbers into a narrative**
