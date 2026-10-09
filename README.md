@@ -98,7 +98,6 @@ Went back through the formulas after the fact and caught a few real bugs along t
 ## Files
 
 - `Sales-Distribution-Dashboard.xlsx` — full workbook (Dashboard, Key Insights, Pivots, Input Data, Target Analysis, Customer mapping)
-- `dashboard-preview.png` — static preview image
 
 ## What I'd Improve Next
 
