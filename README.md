@@ -97,7 +97,7 @@ Went back through the formulas after the fact and caught a few real bugs along t
 
 ## Files
 
-- `Brackenfield-Hardware-Sales-Distribution-Dashboard.xlsx` — full workbook (Dashboard, Key Insights, Pivots, Input Data, Target Analysis, Customer mapping)
+  - [Download the full workbook](Sales-Distribution-Dashboard.xlsx) — Dashboard, Key Insights, Pivots, Input Data, Target Analysis, Customer mapping
 
 ## What I'd Improve Next
 
